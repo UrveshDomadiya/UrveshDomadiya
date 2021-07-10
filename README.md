@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @UrveshDomadiya
-- 👀 I’m interested in cloud computig Devops
+- 👀 I’m interested in cloud computing Devops
 - 🌱 I’m currently learning Devops
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/urvesh-domadiya-49737a1b1/ or mail at urvesh.domadiya105540@marwadiuniversity.ac.in
